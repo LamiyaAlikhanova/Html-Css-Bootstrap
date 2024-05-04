@@ -1,0 +1,15 @@
+header.masthead {
+  position: relative;
+  margin-bottom: 3rem;
+  padding-top: calc(10rem + 80px);
+  padding-bottom: 10rem;
+  background: no-repeat center center;
+  background-size: cover;
+}
+header.masthead .site-heading .subheading {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.1;
+  display: block;
+  margin-top: 0.625rem;
+}
